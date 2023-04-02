@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8bf1a7b6-a400-4106-a0e3-865a7156b1a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Livro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/Biblioteca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/GestaoBiblioteca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/service/BibliotecaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/service/GestaoBibliotecaTest.java" afterDir="false" />
+    <list default="true" id="8bf1a7b6-a400-4106-a0e3-865a7156b1a4" name="Changes" comment="Inclusão das entidades e camadas de testes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -157,12 +153,24 @@
       <option name="presentableId" value="Default" />
       <updated>1680387098717</updated>
       <workItem from="1680387101349" duration="233000" />
-      <workItem from="1680387391133" duration="7866000" />
+      <workItem from="1680387391133" duration="8710000" />
     </task>
+    <task id="LOCAL-00001" summary="Inclusão das entidades e camadas de testes">
+      <created>1680395320641</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680395320641</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Inclusão das entidades e camadas de testes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inclusão das entidades e camadas de testes" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Projeto_Teste_ModuloVIII_Biblioteca$BibliotecaTest.ic" NAME="BibliotecaTest Coverage Results" MODIFIED="1680391815586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
